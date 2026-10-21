@@ -1,5 +1,5 @@
 ## 💻 PROYECTO INTERMODULAR
-*
+
 ## 👤 Participantes del grupo
 * **Inés Robles Zamora**
 * **Alba Cantillo Ortiz**
