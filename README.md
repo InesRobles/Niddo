@@ -15,6 +15,9 @@ Facilitar la organización del hogar, mejorar la convivencia y ayudar a controla
 
 ## 🎓 Proyecto
 
+## 🎨 Diseño
+-  **Figma:** https://www.figma.com/design/AqS6zjNx8ZfanC0OQN8dcD/Sin-t%C3%ADtulo?t=a71z85ooAq0tr6HI-1.
+
 ## 👤 Participantes del grupo
 * **Inés Robles Zamora**
 * **Alba Cantillo Ortiz**
