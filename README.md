@@ -1,4 +1,19 @@
-## 💻 PROYECTO INTERMODULAR
+# 🏡 Niddo
+
+**Niddo** es una aplicación de gestión integral del hogar que permite organizar las tareas domésticas, controlar los gastos y gestionar el mantenimiento de la vivienda desde un único lugar. Para uso individual o compartido.
+
+## ✨ Funcionalidades principales
+
+- 🧹 **Tareas domésticas:** organización de tareas, turnos de limpieza y sistema de puntos.
+- 💸 **Gastos y suscripciones:** control de pagos recurrentes, presupuestos y gastos del hogar, registro de reparaciones, facturas, garantías y revisiones.
+- 🛒 **Lista de la compra:** gestión compartida de productos pendientes.
+- 📅 **Calendario y recordatorios:** avisos de tareas, pagos y revisiones próximas.
+
+## 🎯 Objetivo
+
+Facilitar la organización del hogar, mejorar la convivencia y ayudar a controlar los gastos y las responsabilidades domésticas.
+
+## 🎓 Proyecto
 
 ## 👤 Participantes del grupo
 * **Inés Robles Zamora**
